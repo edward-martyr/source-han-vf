@@ -1,0 +1,16 @@
+{
+  "name": "source-han-vf",
+  "version": "0.1.0",
+  "description": "Subsetted Source Han Variable Fonts",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edward-martyr/source-han-vf.git"
+  },
+  "author": "Yuanhao Chen <nyoeghau@nyoeghau.com>",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/edward-martyr/source-han-vf/issues"
+  },
+  "homepage": "https://github.com/edward-martyr/source-han-vf#readme"
+}
